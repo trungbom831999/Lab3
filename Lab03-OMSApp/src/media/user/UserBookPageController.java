@@ -8,6 +8,8 @@ import com.oms.bean.Media;
 import api.MediaApi;
 import cart.CartController;
 import media.*;
+import media.book.BookSearchPane;
+import media.book.BookSinglePane;
 
 public class UserBookPageController extends UserMediaPageController{
 	public UserBookPageController() {

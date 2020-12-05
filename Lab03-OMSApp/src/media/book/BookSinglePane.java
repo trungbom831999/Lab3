@@ -1,10 +1,11 @@
-package media;
+package media.book;
 
 import javax.swing.JLabel;
 
 import com.oms.bean.Book;
 import com.oms.bean.Media;
-import com.oms.bean.PhysicalMedia;
+
+import media.PhysicalMediaSinglePane;
 
 @SuppressWarnings("serial")
 public class BookSinglePane extends PhysicalMediaSinglePane {

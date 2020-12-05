@@ -1,9 +1,11 @@
-package media;
+package media.book;
 
 import java.util.Map;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
+
+import media.PhysicalMediaSearchPane;
 
 @SuppressWarnings("serial")
 public class BookSearchPane extends PhysicalMediaSearchPane {

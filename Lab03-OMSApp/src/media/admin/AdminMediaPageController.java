@@ -8,7 +8,7 @@ import abstractdata.IDataManageController;
 
 public abstract class AdminMediaPageController extends ADataPageController<Media> {
 	
-	IDataManageController iDataManageController;
+	protected IDataManageController iDataManageController;
 
 	public AdminMediaPageController() {
 		super();

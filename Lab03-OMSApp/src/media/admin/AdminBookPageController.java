@@ -9,6 +9,8 @@ import com.oms.bean.Book;
 import api.MediaApi;
 import editdialog.BookEditDialog;
 import media.*;
+import media.book.BookSearchPane;
+import media.book.BookSinglePane;
 import abstractdata.IDataManageController;
 
 public class AdminBookPageController extends AdminMediaPageController{
